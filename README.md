@@ -59,9 +59,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Aashin20/Aashin20/output/snake.svg" alt="Snake animation" />
 
 ###
 
