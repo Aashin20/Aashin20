@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aashin and I'm a self taught programmer.</h2>
+<h2 align="left">Hi 👋! My name is Aashin .</h2>
 
 ###
 
