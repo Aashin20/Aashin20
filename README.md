@@ -9,7 +9,6 @@
 
 ##### RIGHT NOW
 - Building innovative projects at [Tactile Studio](https://github.com/Tactile-Studio)
-- Creating [PunditAI](https://github.com/Tactile-Studio/PunditAI) - A friendly implementation of [Longwriter](https://arxiv.org/abs/2408.07055)
 - Creating [CodePath](https://github.com/Aashin20/CodePath-Server) - An innovative platform to help students get better at DSA
 - These repos are private for now. Send me a DM and you can have a peak :)
 
