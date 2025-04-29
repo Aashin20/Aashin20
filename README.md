@@ -11,7 +11,7 @@
 - Building innovative projects at [Tactile Studio](https://github.com/Tactile-Studio)
 - Software Developer Intern at [Innova8s](https://www.linkedin.com/company/innova8s/posts/?feedView=all)
 - Creating [CodePath](https://github.com/Aashin20/CodePath-Server) - An innovative platform to help students get better at DSA
-- Creating Neurotone - Accessible parkinson's early detection through vocal biomarkers
+- Creating [Neurotone](https://github.com/Aashin20/NeuroTone) - Accessible parkinson's early detection through vocal biomarkers
 - These repos are private for now. Send me a DM and you can have a peak :)
 
 ##### ABOUT
