@@ -5,7 +5,7 @@
 
 
 ---
-✨ I'm a nineteen y/o backend developer and wannabe entrepreneur ardent on designing the next generation of immersive web experiences.
+✨ I'm a twenty y/o backend developer and wannabe entrepreneur ardent on designing the next generation of immersive web experiences.
 
 ##### RIGHT NOW
 - Building innovative projects at [Tactile Studio](https://github.com/Tactile-Studio)
