@@ -5,40 +5,32 @@
 
 
 ---
-✨ I'm a twenty y/o backend developer ardent on designing the next generation of immersive web experiences.
+✨ I'm a twenty y/o backend developer ardent on building scalable systems.
 
 ##### ABOUT
-- I'm currently a 2nd Year Comp.Sci&Eng student at [SRMIST](https://www.linkedin.com/school/srmist-kattankulathur-chennai-tamil-nadu)
-- My stack: `.py` `Mongo`  `.psd` `.sql`
-- Send me a Hi! [Mail](mailto:aashincanil@gmail.com "Mail me") [Twitter](https://twitter.com/Aashin_20 "My Twitter") [Instagram](https://instagram.com/_.aashin._, "My Instagram")
+- I'm currently a 3rd Year Comp.Sci&Eng student at [SRMIST](https://www.linkedin.com/school/srmist-kattankulathur-chennai-tamil-nadu)
+- Send me a Hi! [Mail](mailto:aashincanil@gmail.com "Mail me") [Linkedin](https://www.linkedin.com/in/aashin-c-anil/) [Instagram](https://instagram.com/_.aashin._, "My Instagram")
 - Hobbies: Programming | Sleeping | Literature | Cricket
 
 ##### CURRENT PROJECTS
-- [evmTrack](https://evm.sec.kerala.gov.in/) - Used by State Election Commission to manage EVM inventory
-- [Memora](https://github.com/Aashin20/Memora-Server) - An IOS app for families to pass down their legacies to younger generations
-- [Leetcode Solutions](https://github.com/Aashin20/LeetCode-Solutions) - My solutions to various leetcode questions
+- 🗳️ [evmTrack](https://evm.sec.kerala.gov.in/) - Used by State Election Commission to manage EVM inventory
+- 🧬 [Memora](https://github.com/Aashin20/Memora-Server) - An IOS app for families to pass down their legacies to younger generations
+- 🧠 [Leetcode Solutions](https://github.com/Aashin20/LeetCode-Solutions) - My solutions to various leetcode questions
    
 ##### LEGACY PROJECTS
-- [Leetcode Progress Tracker](https://github.com/Aashin20/Leetcode-Progress-Tracker) - Track progress for various lc sheets;includes habit tracker too
-- [Register Your Presence](https://github.com/Aashin20/Register-Your-Presence) - App used by SRM CTech department to mark faculty attendance during meetings
-- [BarkTrack](https://github.com/Aashin20/BarkTrack) - An app to help dog owners track and detect various stuff related to their pet
-- [NLQAI](https://github.com/Aashin20/NLQAI) - Convert natural language into SQL queries
-- [NeuroTone](https://github.com/Aashin20/NeuroTone) - Accessible Parkisons disease detection app
-- [LuminalAI](https://github.com/Aashin20/Luminal-AI) - Create tutorial videos for STEM concepts in seconds
-- [JivaLabs](https://github.com/Aashin20/JivaLabs) - Audio,Video and Image based disease detection app
-- [Monitor](https://github.com/Aashin20/Monitor) - Student attendance with geofencing
-- [LearnoBuddy](https://github.com/Aashin20/MCC) - A quiz app for class 10 matriculation students
-- [CodePath](https://github.com/Aashin20/CodePath-Server) - Convert any coding problem into a structured roadmap
-- [Remove.bg](https://github.com/Aashin20/Remove.bg) - Remove background from images
-- [PunditAI](https://github.com/Aashin20/PunditAI) - Effortlessly generate upto 10K words & more through existing LLMs
-- [E-Commerce](https://github.com/Aashin20/E-Commerce) - An e-commerce application built with Django
-- [TradesConnect](https://github.com/Aashin20/TradesConnect) - A platform which connects local tradesmen with customers
-- [Lecturify AI](https://github.com/Tactile-Studio/LecturifyAI) - Convert your audio lectures into interactive learning materials like flashcards, quizzes, etc
+- 📊 [Leetcode Progress Tracker](https://github.com/Aashin20/Leetcode-Progress-Tracker) - Track progress for various lc sheets;includes habit tracker too
+- 🏫 [Register Your Presence](https://github.com/Aashin20/Register-Your-Presence) - App used by SRM CTech department to mark faculty attendance during meetings
+- 🐶 [BarkTrack](https://github.com/Aashin20/BarkTrack) - An app to help dog owners track and detect various stuff related to their pet
+- 🗣️ [NLQAI](https://github.com/Aashin20/NLQAI) - Convert natural language into SQL queries
+- 🧠 [NeuroTone](https://github.com/Aashin20/NeuroTone) - Accessible Parkisons disease detection app
+- 🎥 [LuminalAI](https://github.com/Aashin20/Luminal-AI) - Create tutorial videos for STEM concepts in seconds
+- 🧪 [JivaLabs](https://github.com/Aashin20/JivaLabs) - Audio,Video and Image based disease detection app
+- 📍 [Monitor](https://github.com/Aashin20/Monitor) - Student attendance with geofencing
+- 📚 [LearnoBuddy](https://github.com/Aashin20/MCC) - A quiz app for class 10 matriculation students
+- 🧭 [CodePath](https://github.com/Aashin20/CodePath-Server) - Convert any coding problem into a structured roadmap
+- 🖼️ [Remove.bg](https://github.com/Aashin20/Remove.bg) - Remove background from images
+- ✍️ [PunditAI](https://github.com/Aashin20/PunditAI) - Effortlessly generate upto 10K words & more through existing LLMs
+- 🛒 [E-Commerce](https://github.com/Aashin20/E-Commerce) - An e-commerce application built with Django
+- 🔧 [TradesConnect](https://github.com/Aashin20/TradesConnect) - A platform which connects local tradesmen with customers
+- 🎧 [Lecturify AI](https://github.com/Tactile-Studio/LecturifyAI) - Convert your audio lectures into interactive learning materials like flashcards, quizzes, etc
   
-
-###
-
-![Aashin20's Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Aashin20?cardType=level&theme=github-dark&fontFamily=&preferLogin=false&Points.Commits=10&Points.ContributedToOwnRepositories=10&Points.CreatedRepositories=10&Points.DirectStars=10&Points.Followers=10&Points.IndirectStars=10&Points.Issues=10&Points.PullRequests=10&Points.PullRequestsToAnotherRepositories=10&Points.CommitsToMyRepositories=10&Points.ContributedTo=10)](https://git.io/awesome-stats-card)
-
-
-###
