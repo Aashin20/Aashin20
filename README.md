@@ -20,6 +20,7 @@
 ##### LEGACY PROJECTS
 - 📊 [Leetcode Progress Tracker](https://github.com/Aashin20/Leetcode-Progress-Tracker) - Track progress for various lc sheets;includes habit tracker too
 - 🏫 [Register Your Presence](https://github.com/Aashin20/Register-Your-Presence) - App used by SRM CTech department to mark faculty attendance during meetings
+- 🦴 [IsItBroken?](https://github.com/Aashin20/IsItBroken) - An app to detect if an ankle injury is a sprain or fracture using Ottawa ankle rules(Swift Student Challenge Submission)
 - 🐶 [BarkTrack](https://github.com/Aashin20/BarkTrack) - An app to help dog owners track and detect various stuff related to their pet
 - 🗣️ [NLQAI](https://github.com/Aashin20/NLQAI) - Convert natural language into SQL queries
 - 🧠 [NeuroTone](https://github.com/Aashin20/NeuroTone) - Accessible Parkisons disease detection app
