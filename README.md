@@ -13,7 +13,7 @@
 - Hobbies: Programming | Sleeping | Literature | Cricket
 
 ##### CURRENT PROJECTS
-- 🗳️ [evmTrack](https://evm.sec.kerala.gov.in/) - Used by State Election Commission to manage EVM inventory
+- 🗳️ [evmTrack](https://training.evm.sec.kerala.gov.in/) - Used by State Election Commission Kerala to manage EVM inventory
 - 📊 [ERP](https://github.com/Aashin20/ERP) - Building the next generation of customizable ERP systems
 - 🧬 [Memora](https://github.com/Aashin20/Memora-Server) - An IOS app for families to pass down their legacies to younger generations
 - 🧠 [Leetcode Solutions](https://github.com/Aashin20/LeetCode-Solutions) - My solutions to various leetcode questions
