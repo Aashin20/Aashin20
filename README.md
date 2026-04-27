@@ -10,7 +10,6 @@
 ##### ABOUT
 - I'm currently a 3rd Year Comp.Sci&Eng student at [SRMIST](https://www.linkedin.com/school/srmist-kattankulathur-chennai-tamil-nadu)
 - Send me a Hi! [Mail](mailto:aashincanil@gmail.com "Mail me") [Linkedin](https://www.linkedin.com/in/aashin-c-anil/) [Instagram](https://instagram.com/_.aashin._, "My Instagram")
-- Hobbies: Programming | Sleeping | Literature | Cricket
 
 ##### CURRENT PROJECTS
 - 🗳️ [evmTrack](https://training.evm.sec.kerala.gov.in/) - Used by State Election Commission Kerala to manage EVM inventory
