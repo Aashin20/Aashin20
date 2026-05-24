@@ -29,6 +29,7 @@
 - 🗣️ [NLQAI](https://github.com/Aashin20/NLQAI) - Convert natural language into SQL queries
 - 🎥 [LuminalAI](https://github.com/Aashin20/Luminal-AI) - Create tutorial videos for STEM concepts in seconds
 - 🧪 [JivaLabs](https://github.com/Aashin20/JivaLabs) - Audio,Video and Image based disease detection app
+- 🌞 [Affirmations](https://github.com/Aashin20/Affirmations) - Generate personalized affirmations based on mood
 - 📍 [Monitor](https://github.com/Aashin20/Monitor) - Student attendance with geofencing
 - 📚 [LearnoBuddy](https://github.com/Aashin20/MCC) - A quiz app for class 10 matriculation students
 - 🧭 [CodePath](https://github.com/Aashin20/CodePath-Server) - Convert any coding problem into a structured roadmap
