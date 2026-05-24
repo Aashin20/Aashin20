@@ -9,7 +9,7 @@
 
 ##### ABOUT
 - I'm currently a 3rd Year Comp.Sci&Eng student at [SRMIST](https://www.linkedin.com/school/srmist-kattankulathur-chennai-tamil-nadu)
-- Parallely doing BS DataScience at [IIT Madras](https://www.iitm.ac.in/)
+- Also pursuing BS DataScience at [IIT Madras](https://www.iitm.ac.in/)
 - Send me a Hi! [Mail](mailto:aashincanil@gmail.com "Mail me") [Linkedin](https://www.linkedin.com/in/aashin-c-anil/) [Instagram](https://instagram.com/_.aashin._, "My Instagram")
 
 ##### CURRENT PROJECTS
