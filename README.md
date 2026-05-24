@@ -18,6 +18,7 @@
 - 🧠 [Leetcode Solutions](https://github.com/Aashin20/LeetCode-Solutions) - My solutions to various leetcode questions
    
 ##### LEGACY PROJECTS
+- 📈 [Sales Outreach](https://github.com/Aashin20/Sales-Outreach) - Generate personalized outreach message for a prospect(person + company)
 - 🦴 [IsItBroken?](https://github.com/Aashin20/IsItBroken) - Detect if an ankle injury is a sprain or fracture using Ottawa ankle rules(Swift Student Challenge Submission)
 - 🧠 [NeuroTone](https://github.com/Aashin20/NeuroTone) - Accessible Parkisons disease detection app
 - 📊 [Leetcode Progress Tracker](https://github.com/Aashin20/Leetcode-Progress-Tracker) - Track progress for various lc sheets;includes habit tracker too
