@@ -9,16 +9,17 @@
 
 ##### ABOUT
 - I'm currently a 3rd Year Comp.Sci&Eng student at [SRMIST](https://www.linkedin.com/school/srmist-kattankulathur-chennai-tamil-nadu)
+- Parallely doing BS DataScience at [IIT Madras](https://www.iitm.ac.in/)
 - Send me a Hi! [Mail](mailto:aashincanil@gmail.com "Mail me") [Linkedin](https://www.linkedin.com/in/aashin-c-anil/) [Instagram](https://instagram.com/_.aashin._, "My Instagram")
 
 ##### CURRENT PROJECTS
 - 🗳️ [evmTrack](https://training.evm.sec.kerala.gov.in/) - Used by State Election Commission Kerala to manage EVM inventory
 - 📊 [ERP](https://github.com/Aashin20/ERP) - Building the next generation of customizable ERP systems
-- 🧬 [Memora](https://github.com/Aashin20/Memora-Server) - An IOS app for families to pass down their legacies to younger generations
 - 🧠 [Leetcode Solutions](https://github.com/Aashin20/LeetCode-Solutions) - My solutions to various leetcode questions
    
 ##### LEGACY PROJECTS
 - 📈 [Sales Outreach](https://github.com/Aashin20/Sales-Outreach) - Generate personalized outreach message for a prospect(person + company)
+- 🧬 [Memora](https://github.com/Aashin20/Memora-Server) - An IOS app for families to pass down their legacies to younger generations
 - 🦴 [IsItBroken?](https://github.com/Aashin20/IsItBroken) - Detect if an ankle injury is a sprain or fracture using Ottawa ankle rules(Swift Student Challenge Submission)
 - 🧠 [NeuroTone](https://github.com/Aashin20/NeuroTone) - Accessible Parkisons disease detection app
 - 📊 [Leetcode Progress Tracker](https://github.com/Aashin20/Leetcode-Progress-Tracker) - Track progress for various lc sheets;includes habit tracker too
