@@ -14,7 +14,6 @@
 
 ##### CURRENT PROJECTS
 - 🗳️ [evmTrack](https://training.evm.sec.kerala.gov.in/) - Used by State Election Commission Kerala to manage EVM inventory
-- 📊 [ERP](https://github.com/Aashin20/ERP) - Building the next generation of customizable ERP systems
 - 🧠 [Leetcode Solutions](https://github.com/Aashin20/LeetCode-Solutions) - My solutions to various leetcode questions
    
 ##### LEGACY PROJECTS
@@ -25,6 +24,7 @@
 - 📊 [Leetcode Progress Tracker](https://github.com/Aashin20/Leetcode-Progress-Tracker) - Track progress for various lc sheets;includes habit tracker too
 - ✍️ [PunditAI](https://github.com/Aashin20/PunditAI) - Effortlessly generate upto 10K words & more through existing LLMs
 - 🐶 [BarkTrack](https://github.com/Aashin20/BarkTrack) - An app to help dog owners track and detect various stuff related to their pet
+- 🔬 [Maitri Associates](https://maitriassociates.org/) - Developed the official website of Maitri Associates an IT service firm
 - 🏫 [Register Your Presence](https://github.com/Aashin20/Register-Your-Presence) - App used by SRM CTech department to mark faculty attendance during meetings
 - 🗣️ [NLQAI](https://github.com/Aashin20/NLQAI) - Convert natural language into SQL queries
 - 🎥 [LuminalAI](https://github.com/Aashin20/Luminal-AI) - Create tutorial videos for STEM concepts in seconds
@@ -32,6 +32,7 @@
 - 🌞 [Affirmations](https://github.com/Aashin20/Affirmations) - Generate personalized affirmations based on mood
 - 📍 [Monitor](https://github.com/Aashin20/Monitor) - Student attendance with geofencing
 - 📚 [LearnoBuddy](https://github.com/Aashin20/MCC) - A quiz app for class 10 matriculation students
+- 📊 [ERP](https://github.com/Aashin20/ERP) - Building the next generation of customizable ERP systems
 - 🧭 [CodePath](https://github.com/Aashin20/CodePath-Server) - Convert any coding problem into a structured roadmap
 - 🖼️ [Remove.bg](https://github.com/Aashin20/Remove.bg) - Remove background from images
 - 🛒 [E-Commerce](https://github.com/Aashin20/E-Commerce) - An e-commerce application built with Django
