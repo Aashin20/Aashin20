@@ -8,7 +8,7 @@
 ✨ I'm a twenty y/o backend developer ardent on building scalable systems.
 
 ##### ABOUT
-- I'm currently a 3rd Year Comp.Sci&Eng student at [SRMIST](https://www.linkedin.com/school/srmist-kattankulathur-chennai-tamil-nadu)
+- I'm currently a 4th Year Comp.Sci&Eng student at [SRMIST](https://www.linkedin.com/school/srmist-kattankulathur-chennai-tamil-nadu)
 - Also pursuing BS DataScience at [IIT Madras](https://www.iitm.ac.in/)
 - Send me a Hi! [Mail](mailto:aashincanil@gmail.com "Mail me") [Linkedin](https://www.linkedin.com/in/aashin-c-anil/) [Instagram](https://instagram.com/_.aashin._, "My Instagram")
 
