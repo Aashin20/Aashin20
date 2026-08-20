@@ -15,7 +15,7 @@
 ##### CURRENT PROJECTS
 - 🗳️ [evmTrack](https://evm.sec.kerala.gov.in/) - Used by State Election Commission Kerala to manage EVM inventory
 - 🧠 [Leetcode Solutions](https://github.com/Aashin20/LeetCode-Solutions) - My solutions to various leetcode questions
-- 🏫 [Dale View] - Building the official website of Dale View College of Pharmacy
+- 🏫 [Dale View](https://github.com/Aashin20/DaleView) - Building the official website of Dale View College of Pharmacy
    
 ##### LEGACY PROJECTS
 - 📈 [Sales Outreach](https://github.com/Aashin20/Sales-Outreach) - Generate personalized outreach message for a prospect(person + company)
