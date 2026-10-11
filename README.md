@@ -19,17 +19,18 @@
 - ➗ [Math FreeForm](https://github.com/Aashin20/DaleView) - An iOS app which helps students with math
    
 ##### LEGACY PROJECTS
-- 📈 [Sales Outreach](https://github.com/Aashin20/Sales-Outreach) - Generate personalized outreach message for a prospect(person + company)
-- 🧬 [Memora](https://github.com/Aashin20/Memora-Server) - An IOS app for families to pass down their legacies to younger generations
+- 🤖 [Nudge AI](https://github.com/Aashin20/Nudge-AI) - An AI which gives real-time suggestions during sales calls
 - 📈 [Leap](https://github.com/Aashin20/Leap-Frontend) - Streamline campus recruitment
 - 🦴 [IsItBroken?](https://github.com/Aashin20/IsItBroken) - Detect if an ankle injury is a sprain or fracture using Ottawa ankle rules(Swift Student Challenge Submission)
 - 🧠 [NeuroTone](https://github.com/Aashin20/NeuroTone) - Accessible Parkisons disease detection app
+- 📈 [Sales Outreach](https://github.com/Aashin20/Sales-Outreach) - Generate personalized outreach message for a prospect(person + company)
 - 📊 [Leetcode Progress Tracker](https://github.com/Aashin20/Leetcode-Progress-Tracker) - Track progress for various lc sheets;includes habit tracker too
 - ✍️ [PunditAI](https://github.com/Aashin20/PunditAI) - Effortlessly generate upto 10K words & more through existing LLMs
 - 🐶 [BarkTrack](https://github.com/Aashin20/BarkTrack) - An app to help dog owners track and detect various stuff related to their pet
 - 🔬 [Maitri Associates](https://maitriassociates.org/) - Developed the official website of Maitri Associates an IT service firm
 - 🏫 [Register Your Presence](https://github.com/Aashin20/Register-Your-Presence) - App used by SRM CTech department to mark faculty attendance during meetings
 - 🗣️ [NLQAI](https://github.com/Aashin20/NLQAI) - Convert natural language into SQL queries
+- 🧬 [Memora](https://github.com/Aashin20/Memora-Server) - An IOS app for families to pass down their legacies to younger generations
 - 🎥 [LuminalAI](https://github.com/Aashin20/Luminal-AI) - Create tutorial videos for STEM concepts in seconds
 - 🧪 [JivaLabs](https://github.com/Aashin20/JivaLabs) - Audio,Video and Image based disease detection app
 - 🌞 [Affirmations](https://github.com/Aashin20/Affirmations) - Generate personalized affirmations based on mood
